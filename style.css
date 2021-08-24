@@ -1,4 +1,4 @@
 .main-banner {
-  background-image: url(./images/Electronics.jpg);
+  background-image: url("./images/Electronics.jpg");
   background-size: cover;
 }
