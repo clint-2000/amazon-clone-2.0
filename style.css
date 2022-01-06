@@ -2,3 +2,8 @@
   background-image: url("./images/Electronics.jpg");
   background-size: cover;
 }
+.book-banner {
+  background-image: url("./images/books.jpg");
+  background-size: cover;
+  height: 250px;
+}
